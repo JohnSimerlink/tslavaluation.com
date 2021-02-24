@@ -17,8 +17,18 @@ _element_
  - formula: (computed dynamically from other elements)
  - smart_rating: some metric that looks at the depth of depencies of the elements of these ratings, how well users have rated each of those elements (and have those ratings be weighted by some sort of prediction/rigor score of each rater)
  - version: hash number similar to git - but rather than complicated hex names has some more intuitive branching name
+ - previousVersion:
  _ _tags_
 
+An element can have a whole comments section
+
+People can fork an element
+
+When viewing an element you can see in the UI the link to the previous version of that element (as well as the initials and or avator of the creator of the previous version (and that version's date) and in fact you can see the whole version chain down to the start).
+
+You could see a list of downstream elements that the change in the element changed, and how much the percentages of those values changed.
+
+** on home page show GIF of this update process happening, so people can visually understand the benefits of such a third normal form, connected data organization.
 
 why do this? Why not just link to everyone's spreadsheets? well this way you can see easily all of the people's Q1 Model S USA deliveries predictions, perform queries, and get more granular on what the assumptios are, how much variance in a value of an assumption leads to variance in the stock price. (Of the top of my head, the highest variance assumptios right now are those around fsd and TSLA's long term manufacturing edge. As a community we could rank order the assumptions by most variance-causing, and then conduct community research appropriately, including what questios to ask on the earnings calls.
 
