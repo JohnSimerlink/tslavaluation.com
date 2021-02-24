@@ -46,3 +46,7 @@ people can create models that use future inputs . e.g. you can make a model that
 - moreover, as soon as I monetize it, I feel like it no longer becomes special. No longer would be something everyone link to.
 - so I guess I'd just monetize it by selling merch, and affiliate links to brokerages like Steven does
 - or just use it as a resume item / personal networking tool. a way to build a following for myself on the internet.
+
+
+### vision
+- frankly, I think as a community, we could and should come up with a more accurate model than ARK, Rob, or any one actor. Rise of the open-source retail investors.
