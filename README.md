@@ -16,6 +16,9 @@ _element_
  - value: any, but probably number
  - formula: (computed dynamically from other elements)
  - smart_rating: some metric that looks at the depth of depencies of the elements of these ratings, how well users have rated each of those elements (and have those ratings be weighted by some sort of prediction/rigor score of each rater)
+ - version: hash number similar to git - but rather than complicated hex names has some more intuitive branching name
+ _ _tags_
+
 
 why do this? Why not just link to everyone's spreadsheets? well this way you can see easily all of the people's Q1 Model S USA deliveries predictions, perform queries, and get more granular on what the assumptios are, how much variance in a value of an assumption leads to variance in the stock price
 
