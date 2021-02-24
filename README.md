@@ -31,6 +31,8 @@ crowd source all the possible inputs for all the models and possible distributio
 
 somehow have monte carlos for specific situations - e.g. investing on margin w/ X capital at x price w/ y margin call rules, and then a certain distribution of stock prices occur which trigger margin calls at certain times.
 
+people can create models that use future inputs . e.g. you can make a model that would incorporate certain line items from q1 2021 report before the report is released, and then th eapp automatically scrapes the report or has trusted users input numbers from the report, and your formulae would receive those new numbers and send you a text message saying "your model has calculated that TSLA is now worth $900"
+
 ----
 ### biz model
 - free. Unlike TipRanks
