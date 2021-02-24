@@ -50,3 +50,4 @@ people can create models that use future inputs . e.g. you can make a model that
 
 ### vision
 - frankly, I think as a community, we could and should come up with a more accurate model than ARK, Rob, or any one actor. Rise of the open-source retail investors.
+- The assumption in this vision, is that the retail TSLA community has somehow been more accurate than the market as a whole (assumedly because a large portion of the market (e.g. Wall Street analysts) miscalculating/misunderstanding the non-linear nature of tsla's growth
