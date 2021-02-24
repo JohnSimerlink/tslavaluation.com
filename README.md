@@ -20,7 +20,7 @@ _element_
  _ _tags_
 
 
-why do this? Why not just link to everyone's spreadsheets? well this way you can see easily all of the people's Q1 Model S USA deliveries predictions, perform queries, and get more granular on what the assumptios are, how much variance in a value of an assumption leads to variance in the stock price
+why do this? Why not just link to everyone's spreadsheets? well this way you can see easily all of the people's Q1 Model S USA deliveries predictions, perform queries, and get more granular on what the assumptios are, how much variance in a value of an assumption leads to variance in the stock price. (Of the top of my head, the highest variance assumptios right now are those around fsd and TSLA's long term manufacturing edge. As a community we could rank order the assumptions by most variance-causing, and then conduct community research appropriately, including what questios to ask on the earnings calls.
 
 first elements:
 -current valuation (stock price & link to source)
